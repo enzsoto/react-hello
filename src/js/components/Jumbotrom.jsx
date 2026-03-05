@@ -7,10 +7,10 @@ import "bootstrap";
 const Jumbotrom = () => {
   return (
     <div class="row">
-        <div class="col-12 p-5 mb-4 bg-light rounded-3">
-            <div class="container-fluid py-5">
+        <div class="col-12 p-4 mb-4 bg-light rounded-3">
+            <div class="container-fluid py-4">
                 <h1 class="display-5 fw-bold">A Warm Welcome!</h1>
-                <p class="col-md-8 fs-4">
+                <p class="col-md-12 fs-4">
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error
                 exercitationem repudiandae dignissimos enim unde maxime! Porro,
                 laudantium quaerat totam, error, tenetur eos commodi enim iste

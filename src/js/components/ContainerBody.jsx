@@ -8,7 +8,7 @@ import Jumbotrom from "./Jumbotrom";
 const ContainerBody = () => {
 
     return(
-        <div class="container">
+        <div class="container pt-4">
             <Jumbotrom />
         </div>
     )
